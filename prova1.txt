@@ -14,4 +14,8 @@ Per creare una repository è necessario accedere con il proprio acount github all
 Questa funzionalità è necessaria se si vuole creare un'altra versione del codice del progetto o semplicemente se si vuole collaborare ad un progetto di cui non conosciamo il proprietario ma vogliamo offrire un contributo.
 Il branch è una funzionalità che crea una copia del progetto su cui il programmatore o l'utente può lavorare in completa autonomia senza avere il timore di modificare il codice primario presente su github. Una volta creato un brunch su github sarà possibile notare che è stata creata una nuova versione del progetto sulla quale si possono fare tutte le modifiche che si vogliono. Una volta concluse tutte le modifiche, si farà una richesta di commit ovvero si manderà una richiesta al proprietario del progetto invitandolo a prendere visione del lavoro svolto. Attraverso un sistema di post sarà possibile tra i due scambiarsi messaggi per eventuali correzioni. In caso in cui il proprietario accetti le modifiche includerà di conseguenza il branch nel progetto originale così tutti avranno, attraverso un Pull, tutte le nuove modifiche aggiornate.
 
- 
+4) Che cos'è e a cosa serve una issue?
+
+Un'issue è un'assegnazione di una determinata task ad uno specifico collaboratore creata e gestita dal proprietario del progetto. Serve a definire un piano di lavoro ben definito per non rischiare di avere delle incongruenze nel codice nel caso in cui tutti facciano modifiche contemporaneamente e quindi modificando erroneamente il codice.
+
+5)
