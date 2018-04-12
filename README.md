@@ -1,0 +1,1 @@
+# verificaGuarnieri_GPOI
