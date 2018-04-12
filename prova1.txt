@@ -8,3 +8,10 @@ Infatti grazie a questo software è possibile lavorare ad un progetto e condivide
 2) Come si crea un repository privato?
 
 Per creare una repository è necessario accedere con il proprio acount github alla pagina ufficiale del sito. Una volta definito il nome ed una descrizione (opzionale) è possibile impostare dei parametri di personalizzazione della repository. Tra questi parametri c'è la possibilità di definire la repository come pubblica o privata. Sarà necessario cliccare vicino alla scelta per la repository privata e si verrà poi indirizzati ad una pagina che definirà il pagamento da effettuare per poter usufluire di questa funzionalità. Infatti github mette a disposizione una versione gratuita solo a chi crea tutte repository pubbliche e quindi condivise con tutta la community. Invece impostando il parametro privato sarà possibile nascondere alla community il proprio progetto e si potranno definire in un secondo momento i propri collaboratori. 
+
+3) Cosa si intende per fare un branch?
+
+Questa funzionalità è necessaria se si vuole creare un'altra versione del codice del progetto o semplicemente se si vuole collaborare ad un progetto di cui non conosciamo il proprietario ma vogliamo offrire un contributo.
+Il branch è una funzionalità che crea una copia del progetto su cui il programmatore o l'utente può lavorare in completa autonomia senza avere il timore di modificare il codice primario presente su github. Una volta creato un brunch su github sarà possibile notare che è stata creata una nuova versione del progetto sulla quale si possono fare tutte le modifiche che si vogliono. Una volta concluse tutte le modifiche, si farà una richesta di commit ovvero si manderà una richiesta al proprietario del progetto invitandolo a prendere visione del lavoro svolto. Attraverso un sistema di post sarà possibile tra i due scambiarsi messaggi per eventuali correzioni. In caso in cui il proprietario accetti le modifiche includerà di conseguenza il branch nel progetto originale così tutti avranno, attraverso un Pull, tutte le nuove modifiche aggiornate.
+
+ 
