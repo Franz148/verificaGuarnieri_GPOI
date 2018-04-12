@@ -1,1 +1,6 @@
 Risposte domande Guarnieri
+
+1) Che cos'è github e quali sono le sue caratteristiche?
+
+Github è un software per il controllo delle versioni che nel corso degli ultimi anni è diventato molto popolare per le varie funzionalità che offre.
+Infatti grazie a questo software è possibile lavorare ad un progetto e condividerlo con una cerchia definita di utenti (sfruttando la versione a pagamento) oppure chiedere il parere di tutta la community caricandolo pubblicamente (sfruttando la versione gratuita). La forza di github sta nel fatto che una copia del progetto può essere scaricata localmente da tutti quelli che ne hanno il permesso e possono effettuare modifiche direttamente sul codice originale o creare nuove versioni del codice a cui i proprietari del progetto possono dare una valutazione e decidere se includerlo o meno nel progetto principale. Una delle funzionalità più usate è il sistema di scambio di messaggi per la community, funzionalità che ha permesso la crescita del software in termini di popolarità e fa si che github sia uno dei migliori software di controllo delle versioni.
