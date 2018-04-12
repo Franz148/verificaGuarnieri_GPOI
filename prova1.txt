@@ -18,4 +18,6 @@ Il branch è una funzionalità che crea una copia del progetto su cui il programma
 
 Un'issue è un'assegnazione di una determinata task ad uno specifico collaboratore creata e gestita dal proprietario del progetto. Serve a definire un piano di lavoro ben definito per non rischiare di avere delle incongruenze nel codice nel caso in cui tutti facciano modifiche contemporaneamente e quindi modificando erroneamente il codice.
 
-5)
+5) Cosa si fa quando si da il comando Push in github?
+
+Il comando Push è fondamentale quando si vuole aggiornare il proprio lavoro nel cloud di github. Tutte le modifiche effettuate, che l'utente lavori sul master o su un branch, vengono esclusivamente sviluppate in locale e una volta concluse e corrette le modifiche, per poterle condividere con gli altri o semplicemente per caricale online è necessario effettuare un Push. Questa operazione verificha che non ci siano incongruenze nel codice e che sia possibile aggiornare uno specifico file senza incorrere in problemi dovuti alla modifica contemporanea dello stesso file da parte di più utenti. Una volta cliccato su Push (quidni dopo aver effettuato il commit in locale) è possibile verificare su github che non ci siano stati errori nella modifica del codice originale presente sul cloud.
